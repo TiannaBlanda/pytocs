@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-q -r",
+      "workingDirectory": "d:\\dev\\uxmal\\pytocs\\PyHiSLIP"
+    },
+    "wasm": {
+      "commandName": "Project",
+      "commandLineArgs": "-r .",
+      "workingDirectory": "d:\\dev\\uxmal\\rev\\py\\wasm\\wasm"
+    }
+  }
+}
